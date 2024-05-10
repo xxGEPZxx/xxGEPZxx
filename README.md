@@ -72,15 +72,15 @@ Me gusta usar la metodología SCRUM. Y uso Microsoft Azure Cloud para el desplie
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xxGEPZxx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-<br/> 
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xxGEPZxx&theme=tokyonight&hide_border=false)
-<br/> 
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xxGEPZxx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--- # 📊 GitHub Stats:
+<div align="center">  
+  
+  ![](https://github-readme-stats.vercel.app/api?username=xxGEPZxx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=xxGEPZxx&theme=tokyonight&hide_border=false)  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xxGEPZxx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
+--->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=xxGEPZxx&theme=nord&no-frame=true&no-bg=true&margin-w=4)
