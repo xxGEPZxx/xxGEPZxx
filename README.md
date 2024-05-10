@@ -6,6 +6,7 @@ Me gusta usar la metodología SCRUM. Y uso Microsoft Azure Cloud para el desplie
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/guillermopzerpa) 
 [![](https://visitcount.itsvg.in/api?id=xxGEPZxx&icon=5&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=xxGEPZxx&&style=flat&abbreviated=true&color=0066ff)
 
 # 💻 Tech Stack:
 <h2 align="center"> LANGUAGES </h2>
