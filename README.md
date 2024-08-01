@@ -1,7 +1,8 @@
 # Hola Soy Guillermo Peña
-Soy ing en computación soy egresado en la Universidad Rafael Belloso Chacín (URBE)<br>
-Cada día estoy investigando sobre las nuevas tecnologías<br>
-Me gusta usar la metodología SCRUM. Y uso Microsoft Azure Cloud para el despliegue de las aplicaciones<br>
+Soy Guillermo Peña, soy Ingeniero en Computación manejo diferentes tecnologías de desarrollo de programación. Soy Full Stack. Tengo experiencia en el desarrollo de APIs REST, aplicaciones móviles y desarrollo de páginas WEB. Me gusta utilizar la metodología SCRUM para organizar los tiempos de desarrollo.<br>
+
+Entre mis proyectos más destacados se encuentra mi trabajo especial de grado, que consistió en desarrollar un Sistema de Información Geográfica (SIG) para la gestión del transporte público en las parroquias del noreste de Maracaibo, Edo. Zulia. Utilicé PostgreSQL como gestor de base de datos, desplegándolo en servidores de Azure. El backend del proyecto fue desarrollado con TypeScript, Node.js y Express, creando APIs REST y desplegándolo en un App Service de Azure. En la parte del frontend, desarrollé una aplicación móvil utilizando React Native. Para el SIG, integré las APIs de Google Maps. Además, utilicé un ESP32 y un módulo GPS cerámico para enviar la ubicación en tiempo real del transporte público.<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/guillermopzerpa) 
